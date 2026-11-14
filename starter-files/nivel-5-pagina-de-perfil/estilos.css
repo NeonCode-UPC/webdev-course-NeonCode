@@ -1,1 +1,6 @@
-/* Cuando termines el HTML, elige un color de fondo y dale estilo a tu foto. */
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Centra el texto y elige los colores del fondo y del título. */
+/* Usa la clase .foto para ajustar el ancho, redondear la imagen y añadir un borde. */

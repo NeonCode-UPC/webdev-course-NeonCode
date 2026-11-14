@@ -7,7 +7,7 @@ Crea una página de perfil con un nombre, una imagen y una lista de aficiones. E
 - **Público objetivo** — Estudiantes de secundaria de 12 a 17 años.
 - **Prerrequisitos** — Ninguno. Puedes empezar sin haber escrito código antes.
 - **Herramientas** — Un navegador con conexión a internet y el editor en línea CodePen.
-- **Duración** — El guion prevé 60 minutos. Los cinco videos disponibles suman 26 min 27 s. El nivel 5 tiene una práctica escrita y un guion previsto de 15 minutos.
+- **Duración** — Los seis videos suman 33 min 52 s. Cada nivel incluye una práctica en CodePen.
 - **Repositorio del curso** — [github.com/NeonCode-UPC/webdev-course-NeonCode](https://github.com/NeonCode-UPC/webdev-course-NeonCode).
 
 ## Secuencia de lecciones
@@ -50,11 +50,11 @@ Aplica una regla a todos los títulos de la página y otra solo al párrafo que 
 
 ### Nivel 5 · Crea tu página de perfil
 
-Combina lo aprendido en una sola página. Puedes usar un apodo y una imagen que te represente. El guion y el ejemplo completo acompañan la práctica escrita.
+Combina lo aprendido en una sola página. Puedes usar un apodo y una imagen que te represente. Sigue el video para crear el contenido en HTML y darle estilo con CSS.
 
 - **Consejo clave** — Escribe primero el contenido. Después aplica la clase de la foto y usa `border-radius: 50%` para redondearla.
 - **Práctica** — Escribe tu nombre, una presentación, tres aficiones y un enlace. Da a la imagen un borde circular con CSS y añade una sección con tus metas.
-- **Video** — Pendiente de grabación o publicación. El guion prevé 15 minutos.
+- **Video** — [Ver nivel 5 en YouTube · 7 min 25 s](https://youtu.be/fdP6gZyev0o).
 - **Editor en línea** — [Abrir la práctica del nivel 5 en CodePen](https://codepen.io/editor/gqksjcfz-the-vuer/pen/01a1d83f-1bd7-7e0b-89b1-c257d9f235ba).
 
 ### Nivel 6 · Corrige errores y comparte tu página
@@ -78,5 +78,5 @@ Equipo NeonCode · Entrega del 13 de noviembre de 2026
 
 - **Renzo Piero Santos Minaya** — Niveles 1 y 2. Introducción al desarrollo web y estructura de documentos HTML.
 - **Jhon Jordy Jaramillo Mayta** — Niveles 3 y 4. Listas, imágenes, enlaces y estilos con CSS.
-- **Maria Luisa Munayco Apolaya** — Nivel 5. Proyecto de página de perfil. El video está pendiente.
+- **Maria Luisa Munayco Apolaya** — Nivel 5. Video y práctica de creación de una página de perfil con HTML y CSS.
 - **Aaron André Espinoza Flores** — Líder del equipo y responsable del nivel 6. Revisión de errores y práctica final.

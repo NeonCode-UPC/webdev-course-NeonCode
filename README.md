@@ -14,7 +14,7 @@ Para practicar con una copia descargada, abre el `index.html` de cualquier nivel
 
 | Ruta | Contenido |
 | --- | --- |
-| `starter-files/` | Seis actividades iniciales. Los niveles 2 y 3 usan solo HTML. Los niveles 3 y 5 empiezan con una vista previa en blanco. El nivel 4 empieza con CSS vacío. |
+| `starter-files/` | Seis actividades iniciales. Los niveles 2 y 3 usan solo HTML. El nivel 3 empieza con una vista previa en blanco. El nivel 5 incluye una plantilla de perfil para completar. El nivel 4 empieza con CSS vacío. |
 | `completed-examples/` | Seis ejemplos resueltos. En el nivel 6 puedes comparar el CSS inicial y el corregido para encontrar el punto y coma. |
 | `scripts/` | Un guion en Markdown (.md) por nivel. Los niveles 3 y 4 incluyen la locución con tiempos de la grabación. |
 

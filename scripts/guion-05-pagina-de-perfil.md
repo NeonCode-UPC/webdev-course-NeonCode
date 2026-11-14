@@ -1,6 +1,8 @@
 # Nivel 5: Crea tu página de perfil (guion previsto de 15 min)
 
-Editor: CodePen. Starter: pen con los paneles HTML y CSS vacíos. Construyes todo el proyecto en este nivel: primero el HTML completo y después el CSS.
+Video publicado: [Nivel 5 en YouTube · 7 min 25 s](https://youtu.be/fdP6gZyev0o). Los tiempos de este guion corresponden a la planificación original.
+
+En la demostración se construye el perfil por pasos. Para practicar en CodePen, completa la plantilla de HTML y después personaliza los estilos en CSS.
 
 ## 1. Portada (0:00 a 0:10)
 
