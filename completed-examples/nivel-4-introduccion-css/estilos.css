@@ -1,0 +1,17 @@
+h1 {
+  color: tomato;
+  text-align: center;
+  border: 3px solid tomato;
+  padding: 10px;
+}
+
+body {
+  background-color: #1a0b3b;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.destacado {
+  color: gold;
+  font-size: 24px;
+}
