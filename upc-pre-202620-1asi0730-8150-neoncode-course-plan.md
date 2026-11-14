@@ -55,7 +55,7 @@ Combina lo aprendido en una sola página. Puedes usar un apodo y una imagen que 
 - **Consejo clave** — Escribe primero el contenido. Después aplica la clase de la foto y usa `border-radius: 50%` para redondearla.
 - **Práctica** — Escribe tu nombre, una presentación, tres aficiones y un enlace. Da a la imagen un borde circular con CSS y añade una sección con tus metas.
 - **Video** — [Ver nivel 5 en YouTube · 7 min 25 s](https://youtu.be/fdP6gZyev0o).
-- **Editor en línea** — [Abrir la práctica del nivel 5 en CodePen](https://codepen.io/editor/gqksjcfz-the-vuer/pen/01a1d83f-1bd7-7e0b-89b1-c257d9f235ba).
+- **Editor en línea** — [Abrir la práctica del nivel 5 en CodePen](https://codepen.io/editor/gqksjcfz-the-vuer/pen/01a1d858-fe42-7fa0-98ec-6d712c9e18f2).
 
 ### Nivel 6 · Corrige errores y comparte tu página
 
